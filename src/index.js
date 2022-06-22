@@ -13,7 +13,7 @@ import Home from './home';
 import Login from './login';
 import NavBar from './navbar';
 import Withdraw from './withdraw';
-import { CurrentUser, UserContext } from '../context/context'
+import { CurrentUser, UserContext } from './context'
 
 
 

@@ -83,7 +83,7 @@ function AllData(){
 
 
     {<h5>All Data in Store</h5>
-  {JSON.stringify(ctx)}<br/> */}
+ /*{JSON.stringify(ctx)}<br/> }*/
  // <br></br>
 
  //   </>

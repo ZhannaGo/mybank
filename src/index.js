@@ -2,6 +2,7 @@ import React from 'react';
 import { useContext, useEffect, useState } from 'react'
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import { CurrentUser, UserContext } from './context'
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import AllData from './alldata';
@@ -13,7 +14,7 @@ import Home from './home';
 import Login from './login';
 import NavBar from './navbar';
 import Withdraw from './withdraw';
-import { CurrentUser, UserContext } from './context'
+
 
 
 

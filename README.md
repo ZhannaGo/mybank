@@ -1,5 +1,5 @@
 
-# Project Title: The title of your project.
+# Project Title: Mybank.
 ## The reasons why this project exists is to practice coding skills
 ### Installation Guidelines: to run the commant http-server in terminal.
 ####<img width="1728" alt="Screen Shot 2022-06-23 at 12 26 45 AM" src="https://user-images.githubusercontent.com/101298536/175221892-13adf179-9988-40f5-831c-bb46b6294c1c.png">
